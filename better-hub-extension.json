@@ -1,0 +1,10 @@
+{
+	"$schema": "https://better-hub.com/schemas/theme-manifest.schema.json",
+	"name": "Cursor",
+	"description": "The Cursor IDE dark & light theme for Better Hub — neutral grays with cool cyan accents.",
+	"version": "1.0.0",
+	"type": "theme",
+	"main": "theme.json",
+	"icon": "icon.png",
+	"license": "MIT"
+}
