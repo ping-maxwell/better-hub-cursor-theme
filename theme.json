@@ -293,7 +293,7 @@
 			"--muted-foreground": "218 11% 45%",
 			"--accent": "220 13% 93%",
 			"--accent-foreground": "224 14% 12%",
-			"--border": "225 4% 17%",
+			"--border": "220 13% 87%",
 			"--input": "220 13% 85%",
 			"--ring": "189 94% 37%",
 			"--destructive": "0 72% 51%",
